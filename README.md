@@ -34,7 +34,7 @@ python app.py
 
 
 You should be able to view the homepage as below :
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
+![alt text](![p1](https://user-images.githubusercontent.com/63164653/106210502-2f9aea80-61c7-11eb-86bf-9332ac3fc697.png))
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
