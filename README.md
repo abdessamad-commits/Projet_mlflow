@@ -30,7 +30,8 @@ we should be able to view the homepage as below in which we enter valid numerica
 <img src = "images/o1.png" width=200>
 
 
-the we can see the result predicted by our model. 
+the we can see the result predicted by our model.  
+
 <img src = "images/o2.png">
 
 
