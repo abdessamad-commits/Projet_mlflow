@@ -2,7 +2,12 @@
 this is a project on a deployement of a machine learning model using flask and tracking the performance of the model using mlflow
 
 ### Prerequisites
-You must have an IDE(best to use pycharm), Scikit Learn, Pandas, mlflow, Flask.
+You must have an:  
+IDE(best to use pycharm). 
+Scikit Learn. 
+Pandas    
+mlflow. 
+Flask. 
 You can use the graphic interface to download the libraries or pip install
 
 ### Project Structure
