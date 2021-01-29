@@ -34,6 +34,7 @@ the we can see the result predicted by our model.
 
 <img src = "images/o2.png">
 
+link of the project:https://projet-sem.herokuapp.com/
 
 6.Now that we deployed our model and tested it, we will be tracking our machine learning model using mlflow, we start of by accessing the graphical interface of mlflow by using the following command in the terminal
 ```
