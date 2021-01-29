@@ -34,8 +34,10 @@ we should be able to view the homepage as below in which we enter valid numerica
 <img src = "images/o1.png" width=200>
 
 
-If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Result.png)
+the we can see the result predicted by our model. 
+
+<img src = "images/o1.png" width=200>
+
 
 
 6.Now that we deployed our model and tested it, we will be tracking our machine learning model using mlflow, we start of by accessing the graphical interface of mlflow by using the following command in the terminal
@@ -54,3 +56,6 @@ python model.py 0.1 0.6
 ```
 python model.py 0.4 0.2
 ```
+8. Once we compiled our model with different parameters we just refresh the mlflow graphical interface and we will the parameters and the metrics of our model stored  and we can pick the best performing model. 
+<img src = "images/o1.png" width=200>
+
