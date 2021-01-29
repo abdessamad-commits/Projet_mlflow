@@ -24,20 +24,14 @@ we compiled our model, and we saved it to disk in a file named model.pkl1
 python app.py
 ```
 
-5.After we run our app.py file we will get the port in which our app is running we just click on it, and we get access to our webpage
-
-
-
-
+5.After we run our app.py file we will get the port in which our app is running we just click on it, and we get access to our webpage. 
 we should be able to view the homepage as below in which we enter valid numerical values in all 4 input boxes and hit Predict.  
 
 <img src = "images/o1.png" width=200>
 
 
 the we can see the result predicted by our model. 
-
-<img src = "images/o1.png" width=200>
-
+<img src = "images/o2.png">
 
 
 6.Now that we deployed our model and tested it, we will be tracking our machine learning model using mlflow, we start of by accessing the graphical interface of mlflow by using the following command in the terminal
@@ -57,5 +51,5 @@ python model.py 0.1 0.6
 python model.py 0.4 0.2
 ```
 8. Once we compiled our model with different parameters we just refresh the mlflow graphical interface and we will the parameters and the metrics of our model stored  and we can pick the best performing model. 
-<img src = "images/o1.png" width=200>
+<img src = "images/o3.png">
 
