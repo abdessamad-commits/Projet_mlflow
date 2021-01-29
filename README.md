@@ -34,8 +34,7 @@ python app.py
 
 
 You should be able to view the homepage as below :
-![p1](https://user-images.githubusercontent.com/63164653/106210502-2f9aea80-61c7-11eb-86bf-9332ac3fc697.png 25x25)
-
+<img src = "images/o1.png">
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
 If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
