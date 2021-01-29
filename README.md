@@ -61,3 +61,10 @@ pip install dash
 ```
 pip install plotly
 ```
+We can see below some of the visualization the we have in our notebook
+Figure 1:  
+<img src = "images/o4.png">
+Figure 2:  
+<img src = "images/o5.png">
+
+
