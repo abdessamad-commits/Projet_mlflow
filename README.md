@@ -29,9 +29,10 @@ python app.py
 
 
 
-You should be able to view the homepage as below :
+we should be able to view the homepage as below in which we enter valid numerical values in all 4 input boxes and hit Predict.  
+
 <img src = "images/o1.png" width=200>
-Enter valid numerical values in all 3 input boxes and hit Predict.
+
 
 If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
 ![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Result.png)
